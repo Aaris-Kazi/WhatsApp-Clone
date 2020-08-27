@@ -1,6 +1,9 @@
 # signin
 
 A new Flutter project.
+## SnapShot
+<img src = "https://github.com/Aaris-Kazi/WhatsApp-Clone/blob/master/whatsapp.gif" height = 480, width = 360>
+
 
 ## Getting Started
 
